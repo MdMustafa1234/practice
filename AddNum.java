@@ -14,7 +14,7 @@ public class AddNum {
 		int y=scan.nextInt();
 		
 		int sum=x+y;
-		System.out.println("sum :"+ sum);
+		System.out.println("sum  : "+ sum);
 		
 	}
 
