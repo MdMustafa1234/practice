@@ -34,8 +34,8 @@ Features of GIT
 
 ->Configure Git
 Now let Git know who you are. This is important for version control systems, as each Git commit uses this information:  
-				git config --global user.name "MdMustafa1234" 
-				git config --global user.email "mdrmustafa1234@gmail.com"
+				git config --global user.name "MdMustafa14" 
+				git config --global user.email "mdrmustafa@gmail.com"
 
 
 ->user is successfully registerd: 	git config --list
