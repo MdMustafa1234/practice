@@ -7,6 +7,7 @@ public class AddNum {
 		
 		
 		Scanner scan=new Scanner(System.in);
+		System.out.println("============");
 		System.out.println("Enter the first digit");
 		int x=scan.nextInt();
 		
@@ -14,7 +15,8 @@ public class AddNum {
 		int y=scan.nextInt();
 		
 		int sum=x+y;
-		System.out.println("sum :"+ sum);
+		System.out.println("sum  : "+ sum);
+		System.out.println("============");
 		
 	}
 
